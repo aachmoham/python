@@ -1,4 +1,4 @@
-# Python Projects 🐍
+# Python 🐍
 
 Welcome to my Python repository! This is where I showcase my journey in Python development with scripts, projects, and solutions that demonstrate creativity and problem-solving.
 
