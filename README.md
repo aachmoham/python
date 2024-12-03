@@ -8,6 +8,6 @@ Welcome to my Python repository! This is where I showcase my journey in Python d
 - Clean, reusable code for learning and collaboration.
 
 ### Contact me:
-1. **Email Link**: `[my mail](mailto:your.email@example.com)`
+1. **Email Link**: [my mail](mailto:your.email@example.com)
 2. **LinkedIn**: aach.moham
 3. **GitHub**: https://github.com/aachmoham
