@@ -3,7 +3,6 @@ inp = input(
     "\n- Minimum 8 characters."
     "\n- A capital letter, A lower letter, number and a speciaal character.\n> "
 )
-
 special_chars = "@#$%^&*()_+-=!"
 has_upper = False
 has_lower = False 
